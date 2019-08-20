@@ -1,0 +1,31 @@
+#container
+{ 
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	width: 50%;
+}
+
+#UsernameP
+{
+	
+	font-family: Arial;
+	color:#fa983a;
+	font-size: 25px;
+}
+
+#PasswordP
+{
+	font-family: Arial;
+	color:#fa983a;
+	font-size: 25px;
+}
+
+#wronginfo
+{
+	color: red;
+	font-family: Arial;
+	
+}
+
+

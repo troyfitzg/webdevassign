@@ -1,0 +1,74 @@
+#profilec
+{
+	width: 90%;
+	height:auto;
+	background-color:#ffbc75;
+	margin-left:auto;
+	margin-right:auto;
+	padding-left: 20px;
+	
+}
+
+h1
+{
+	color: white;
+}
+
+#changepwd
+{
+	color: white;
+	font-family: Arial;
+	font-size: 20px;
+	text-align:center;
+}
+
+#changepp
+{
+	color: white;
+	font-family: Arial;
+	font-size: 20px;
+	text-align:center;
+}
+
+#deleteacc
+{
+	color: white;
+	font-family: Arial;
+	font-size: 20px;
+	text-align:center;
+}
+
+#changepwd:hover
+{
+	color: black;
+}
+
+#deleteacc:hover
+{
+	color: red;
+}
+
+
+
+hr.breaker
+{
+	border-radius: 100%;
+	border: 2px solid white;
+	
+}
+
+img
+{
+	display: block;
+	margin-right:30px;
+	margin-top:-320px;
+	float: right;
+	background-color: white;
+}
+
+.btn.btn-custom
+{
+	 background-color:  #fa983a;
+	 color: #ffffff;
+	
+}
